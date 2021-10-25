@@ -42,3 +42,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 Feito com ♥ by Rocketseat 👋🏻 &nbsp;[Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+
+https://www.figma.com/community/file/1031699316177416916
+
+
